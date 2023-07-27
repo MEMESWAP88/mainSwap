@@ -449,5 +449,12 @@
   "details": "詳情",
   "applyDesc2": "當登記代幣打入空投合約地址數達到1000後登記代幣自動上線空投合約。",
   "Transaction Fees and mint BEP20": "交易費用和支持增發BEP20",
-  "Transaction Fees and burn BEP20": "交易費用和支持銷毀BEP20"
+  "Transaction Fees and burn BEP20": "交易費用和支持銷毀BEP20",
+  "Countdown to launch": "上線倒計時",
+  "MEME is coming soon": "MEME 即將上線",
+  "Destination address number": "目標地址數",
+  "Current address number": "當前地址數",
+  "notice1": "登記代幣可以按1:1兌換MEME鎖倉空投，通過交易MEME代幣來獲得額外的鎖倉獎勵。",
+  "notice2": "當鎖倉地址達到5W目標時，MEME流動池交易對將自動解鎖開始交易。",
+  "Home": "首頁"
 }

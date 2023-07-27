@@ -100,5 +100,7 @@
   "host_desc2": "The MEME custody contract can also realize MEME's position mining, and LP mining can be divided during the custody period.",
   "Insufficient symbol balance": "Insufficient {{symbol}} balance",
   "applyDesc2": "When the number of registered tokens entered into the airdrop contract address reaches 1,000, the registered tokens will automatically go online in the airdrop contract.",
-  "For each trade a 0.25% fee is paid. 0.17% goes to liquidity providers and 0.08% goes to the MEMESwap treasury.": "For each trade a 0.25% fee is paid. 0.17% goes to liquidity providers and 0.08% goes to the MEMESwap Labs treasury."
+  "For each trade a 0.25% fee is paid. 0.17% goes to liquidity providers and 0.08% goes to the MEMESwap treasury.": "For each trade a 0.25% fee is paid. 0.17% goes to liquidity providers and 0.08% goes to the MEMESwap Labs treasury.",
+  "notice1": "Registration tokens can be exchanged for MEME lock-up airdrops at a ratio of 1:1, and additional lock-up rewards can be obtained by trading MEME tokens.",
+  "notice2": "When the locked address reaches the 5W target, the MEME liquidity pool trading pair will be automatically unlocked and start trading."
 }
